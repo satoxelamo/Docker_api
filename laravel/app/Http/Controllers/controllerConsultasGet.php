@@ -11,4 +11,6 @@ class controllerConsultasGet extends Controller
     {
         return response()->json(consultas::all());
     }
+
+    #hola
 }
