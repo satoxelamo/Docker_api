@@ -46,10 +46,10 @@ Aplicación web full-stack que permite consultar información de países y regis
 ### POST
 Registra las consultas
 
-```
-[ "tipo":"pais" ]
-[ "parametro":"España" ]
-```
+   ```
+   [ "tipo":"pais" ]
+   [ "parametro":"España" ]
+   ```
 ### GET /estadisticas
 Devuelve estadisticas de uso 
 
@@ -61,11 +61,19 @@ Devuelve un listado completo de las búsquedas
 ## Instalación
 
 1. Clona el repositorio
-   
+
    ```
    
    git clone https://github.com/satoxelamo/Docker_api
    
+   ```
+   
+3. Meterse en el directorio del proyecto y ejecuta:
+
+   ```
+
+   docker-compose up -d --build
+
    ```
 
 
