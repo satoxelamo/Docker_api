@@ -5,6 +5,15 @@ namespace App\Http\Controllers;
 use Illuminate\Support\Facades\DB;
 use App\Models\consultas;
 
+/**
+ * Class controllerEstadisticaGet
+ * Este controlador maneja las estadísticas de las consultas.
+ * Proporciona un endpoint para obtener estadísticas agregadas de las consultas realizadas.
+ * * Incluye:
+ * - Total de consultas por tipo.
+ * - Consulta más realizada.
+ * - Total de consultas por día.
+ */
 class controllerEstadisticaGet extends Controller
 {
     public function __invoke()

@@ -1,3 +1,7 @@
+
+#Dockerfile para construir una imagen de Node.js para una aplicación React.
+#Utiliza la imagen oficial de Node.js como base.
+    
 FROM node:24.1.0
 
 WORKDIR /app
