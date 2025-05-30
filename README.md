@@ -41,6 +41,7 @@ Aplicación web full-stack que permite consultar información de países y regis
 
 ```
 ---
+
 ## Documentación API
 ### POST
 Registra las consultas
@@ -56,6 +57,7 @@ Devuelve estadisticas de uso
 Devuelve un listado completo de las búsquedas
 
 ---
+
 ## Instalación
 
 1. Clona el repositorio
