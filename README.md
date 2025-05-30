@@ -9,8 +9,8 @@ Aplicación web full-stack que permite consultar información de países y regis
 1. [Tecnologías utilizadas](#-tecnologías-utilizadas)  
 2. [Características del proyecto](#-características-del-proyecto)  
 3. [Arquitectura del sistema](#-arquitectura-del-sistema)  
-4. [Documentación API](#-documentación-api)  
-5. [Instalación](#-instalación-y-despliegue)  
+4. [Documentación API](#documentacion-api)  
+5. [Instalación](#instalacion)  
 
 ---
 
