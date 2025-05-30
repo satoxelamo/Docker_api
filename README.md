@@ -10,8 +10,7 @@ Aplicación web full-stack que permite consultar información de países y regis
 2. [Características del proyecto](#-características-del-proyecto)  
 3. [Arquitectura del sistema](#-arquitectura-del-sistema)  
 4. [Documentación API](#-documentación-api)  
-5. [Instalación y despliegue](#-instalación-y-despliegue)  
-6. [Licencia](#-licencia)
+5. [Instalación](#-instalación-y-despliegue)  
 
 ---
 
@@ -42,7 +41,7 @@ Aplicación web full-stack que permite consultar información de países y regis
 
 ```
 ---
-## Documentacion API
+## Documentación API
 ### POST
 Registra las consultas
 
